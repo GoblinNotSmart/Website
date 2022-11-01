@@ -1,0 +1,146 @@
+h1 {
+    color: blue;
+    text-align: center;
+    border: 3px solid rgb(222, 226, 222);
+    background-color: black;
+  }
+
+h2 {
+    color: black;
+    font-style:oblique;
+}
+
+h3 {
+    color:rgb(222, 226, 222)
+}
+
+h4532 {
+    color: blue;
+}
+
+ligma {
+    color:rgba(173, 59, 158, 0.664);
+    font-size: small;
+}
+
+button {
+    color:rgba(173, 59, 158, 0.664);
+    font-size: 15;
+    background-color: cornsilk;
+}
+
+button2 {
+    color:rgba(173, 59, 158, 0.664);
+    font-size: 15;
+}
+
+yes2 {
+    color:aliceblue
+}
+
+ul > li{
+    color: black;
+    font-size: 15;
+    border-color: aqua;
+}
+
+ligma2 {
+    /* animation properties */
+    animation-name: my-animation;
+    animation-duration: 1.5s;
+    animation-direction: alternate-reverse;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    /* other properties */
+    width: 400px;
+    height: 150px;
+    border-radius: 10px;
+    position: absolute;
+    left: 0; 
+    right: 0; 
+    margin-left: auto;
+    margin-right: auto; 
+  
+}
+
+gdfjgdf{
+    width: 500px;
+    height: 150px;
+    color: black;
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    left: 0;
+    right: 0;
+    background-color: greenyellow ;
+    font-style: italic;
+}
+
+fdxlkhfd {
+    text-align: center;
+    animation-name: sick;
+    animation-duration: 5s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-timing-function:  linear;
+
+    width: 500px;
+    height: 150px;
+    border-radius: 20px;
+    position:fixed;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+}
+
+randomshit > weak {
+    font-size: small;
+}
+
+@keyframes sick {
+    from {
+        text-align: center;
+        color: chocolate;
+        font-size: large;
+        background-color: greenyellow;
+        width: 500px;
+        height: 150px;
+    }
+
+    to {
+        text-align: center;
+        font-size: small;
+        background-color: aquamarine;
+        height: 200px;
+        width: 250px;
+    }
+}
+  
+  
+
+@keyframes my-animation {
+    from {
+        background-color: #ff7a59;
+        width: 300px;
+        top: 10px;
+      }
+      to {
+        background-color: blue;
+        width: 60px;
+        top: 100px;
+}
+}
+
+
+unique {
+    border: black;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+unique > p {
+    color: "white";
+}
